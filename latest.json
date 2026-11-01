@@ -1,9 +1,9 @@
 {
-  "version": "0.5.0",
-  "minima": "0.5.0",
+  "version": "0.5.1",
+  "minima": "0.5.1",
   "canal": "beta",
   "fecha": "2026-11-01",
-  "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.0/SkeletonTraductor_0.5.0_Portable.zip",
-  "sha256": "49E63A5DDBD1620DC051FB51EB712A63073266EADA6B8D6F4B6886648F67CE9B",
-  "notas": "Primera version publica de prueba. Incluye extraccion e inyeccion manual; la licencia Pro desbloquea la traduccion automatica."
+  "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.1/SkeletonTraductor_0.5.1_Portable.zip",
+  "sha256": "9731231BAB9130ED454DF3A5C487FBED7ED9D6CADA654D6953C37E50A29673E0",
+  "notas": "Version 0.5.1: paquete limpio y rotacion de la licencia de prueba."
 }
