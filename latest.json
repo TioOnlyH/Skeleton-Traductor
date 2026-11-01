@@ -1,9 +1,9 @@
 {
-  "version": "0.5.1",
-  "minima": "0.5.1",
+  "version": "0.5.2",
+  "minima": "0.5.2",
   "canal": "beta",
   "fecha": "2026-11-01",
-  "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.1/SkeletonTraductor_0.5.1_Portable.zip",
-  "sha256": "9731231BAB9130ED454DF3A5C487FBED7ED9D6CADA654D6953C37E50A29673E0",
-  "notas": "Version 0.5.1: paquete limpio y rotacion de la licencia de prueba."
+  "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.2/SkeletonTraductor_0.5.2_Portable.zip",
+  "sha256": "BDA02FFBD5C25398ACD65FE98FCF33BF72988BA21FE20156C63B8E22015EC175",
+  "notas": "Version 0.5.2: extraccion Free de Unity corregida y enlace de Patreon actualizado."
 }
