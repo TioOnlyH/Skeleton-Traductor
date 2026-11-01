@@ -1,9 +1,9 @@
 {
-  "version": "0.5.3",
-  "minima": "0.5.3",
+  "version": "0.5.4",
+  "minima": "0.5.4",
   "canal": "beta",
   "fecha": "2026-11-01",
-  "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.3/SkeletonTraductor_0.5.3_Portable.zip",
-  "sha256": "3B05649C3310E8DFD9B94179CAD6BF58637D42A67706AA2DF43288901D04610B",
-  "notas": "Version 0.5.3: conversaciones Unity, apertura de carpetas y ajustes de Free."
+  "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.4/SkeletonTraductor_0.5.4_Portable.zip",
+  "sha256": "EA0789B7765E7169FC56DE7B048C4B33D915B71B97C3AA304FFBD44E4CE54DB8",
+  "notas": "Version 0.5.4: dialogo convlist y cadenas de interfaz Unity combinados."
 }
