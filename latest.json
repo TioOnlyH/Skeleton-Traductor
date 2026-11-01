@@ -4,6 +4,6 @@
   "canal": "beta",
   "fecha": "2026-11-01",
   "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.0/SkeletonTraductor_0.5.0_Portable.zip",
-  "sha256": "0F8E21A76E84FD79C3160D3090CDCC6A77D5CD1C469F28A1DBFA0A4B8D862AB1",
+  "sha256": "49E63A5DDBD1620DC051FB51EB712A63073266EADA6B8D6F4B6886648F67CE9B",
   "notas": "Primera version publica de prueba. Incluye extraccion e inyeccion manual; la licencia Pro desbloquea la traduccion automatica."
 }
