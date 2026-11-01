@@ -1,4 +1,4 @@
-﻿{
+{
   "version": "0.5.0",
   "minima": "0.5.0",
   "canal": "beta",
@@ -7,4 +7,3 @@
   "sha256": "CC562BE0A3C44F2EED5F83707C6A592E9AAC2B0710742EB6C0082A83E58C68D3",
   "notas": "Primera version publica de prueba. Incluye extraccion e inyeccion manual; la licencia Pro desbloquea la traduccion automatica."
 }
-
