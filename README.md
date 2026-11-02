@@ -54,7 +54,7 @@ No ejecutes el programa desde dentro del ZIP: descomprimelo primero.
 - **Free**: extraer texto, editarlo a mano e inyectarlo.
 - **Pro**: traduccion automatica con Google/DeepSeek, reanudacion, editores y demas motores desbloqueados.
 
-La licencia se verifica sin conexion. Esta descarga no incluye el generador de claves ni claves privadas.
+Las licencias permanentes se validan sin conexion. Las licencias por horas necesitan Internet al activarse y al abrir la app para comprobar la hora UTC. Esta descarga no incluye el generador de claves ni claves privadas.
 
 ## Carpetas importantes
 
