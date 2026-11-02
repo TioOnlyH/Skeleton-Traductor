@@ -4,14 +4,26 @@ Traductor de juegos para Windows: Unity, Ren'Py, RPG Maker, KiriKiri y Wolf RPG.
 
 ## Descargar
 
-**[Descargar Skeleton Traductor 0.5.4 Portable](https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.4/SkeletonTraductor_0.5.4_Portable.zip)**
+**[Descargar Skeleton Traductor 0.5.5 Portable](https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.5/SkeletonTraductor_0.5.5_Portable.zip)**
 
-- Archivo: `SkeletonTraductor_0.5.4_Portable.zip`
-- SHA-256: `EA0789B7765E7169FC56DE7B048C4B33D915B71B97C3AA304FFBD44E4CE54DB8`
+- Archivo: `SkeletonTraductor_0.5.5_Portable.zip`
+- SHA-256: `43EC6D57F373E6759EB77C04A70E73404B9590EA859AF94ADF002978C7E21F8F`
 - No necesitas instalar Python.
 - Windows 10/11 de 64 bits.
 
-Si el enlace no abre, entra en **Releases** y descarga el ZIP de la version 0.5.4.
+Si el enlace no abre, entra en **Releases** y descarga el ZIP de la version 0.5.5.
+
+## Novedades de la 0.5.5
+
+- Busqueda global en todos los archivos de Fase_2, con resultados por archivo y linea.
+- Editor manual ampliable y minimizable.
+- Copiar original con clic o Ctrl+C y pegar con Ctrl+V.
+- Botones del editor siempre visibles.
+- Wolf RPG: soporte de `Data.wolf`, Fase_2 al extraer y comentarios `//` fuera.
+- Ren'Py: Fase_2 se crea vacia y se conservan las traducciones existentes.
+- KiriKiri: los `.scn` se instalan en su ruta correcta (`data/scenario/`).
+- Reinyeccion mas limpia: reemplaza la salida anterior y conserva `Save`/`savedata`.
+- Correcciones de cache y de deteccion de salidas.
 
 ## Instalar
 
@@ -53,7 +65,7 @@ No borres `Registros` si quieres conservar traducciones ya hechas.
 
 ## Actualizaciones
 
-La app consulta `latest.json` cuando se añada el actualizador. Mientras tanto, descarga el ZIP nuevo desde Releases y descomprimelo sobre la carpeta del programa; no borres `Registros` ni `Juegos Terminados`.
+La app consulta `latest.json` cuando se anada el actualizador. Mientras tanto, descarga el ZIP nuevo desde Releases y descomprimelo sobre la carpeta del programa; no borres `Registros` ni `Juegos Terminados`.
 
 ## Si una carpeta da acceso denegado
 
@@ -61,7 +73,7 @@ Ejecuta `SOLUCIONAR_PERMISOS.cmd` dentro de la carpeta del programa. Repara los 
 
 ## Problemas con Windows Defender
 
-Si Windows muestra un aviso, comprueba el SHA-256 publicado. La version 0.5.4 aun no tiene firma Authenticode; se esta preparando para versiones posteriores.
+Si Windows muestra un aviso, comprueba el SHA-256 publicado. La distribucion principal es la portable.
 
 ## Soporte
 

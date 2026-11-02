@@ -1,9 +1,9 @@
 {
-  "version": "0.5.4",
-  "minima": "0.5.4",
+  "version": "0.5.5",
+  "minima": "0.5.5",
   "canal": "beta",
-  "fecha": "2026-11-01",
-  "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.4/SkeletonTraductor_0.5.4_Portable.zip",
-  "sha256": "EA0789B7765E7169FC56DE7B048C4B33D915B71B97C3AA304FFBD44E4CE54DB8",
-  "notas": "Version 0.5.4: dialogo convlist y cadenas de interfaz Unity combinados."
+  "fecha": "2026-11-02",
+  "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.5/SkeletonTraductor_0.5.5_Portable.zip",
+  "sha256": "43EC6D57F373E6759EB77C04A70E73404B9590EA859AF94ADF002978C7E21F8F",
+  "notas": "Version 0.5.5: busqueda global, UI ampliable y correcciones Wolf/Ren'Py/KiriKiri."
 }
