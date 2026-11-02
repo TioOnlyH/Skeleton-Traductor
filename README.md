@@ -7,7 +7,7 @@ Traductor de juegos para Windows: Unity, Ren'Py, RPG Maker, KiriKiri y Wolf RPG.
 **[Descargar Skeleton Traductor 0.5.5 Portable](https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.5/SkeletonTraductor_0.5.5_Portable.zip)**
 
 - Archivo: `SkeletonTraductor_0.5.5_Portable.zip`
-- SHA-256: `43EC6D57F373E6759EB77C04A70E73404B9590EA859AF94ADF002978C7E21F8F`
+- SHA-256: `55DD8FDF67064959D6DABA3D98180993CA8702A22955BBAEF11114A9AC5007E5`
 - No necesitas instalar Python.
 - Windows 10/11 de 64 bits.
 
@@ -15,6 +15,7 @@ Si el enlace no abre, entra en **Releases** y descarga el ZIP de la version 0.5.
 
 ## Novedades de la 0.5.5
 
+- Boton **Actualizar** con comprobacion de `latest.json`, descarga, verificacion SHA-256 e instalacion conservando datos.
 - Busqueda global en todos los archivos de Fase_2, con resultados por archivo y linea.
 - Editor manual ampliable y minimizable.
 - Copiar original con clic o Ctrl+C y pegar con Ctrl+V.
