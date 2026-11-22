@@ -1,9 +1,9 @@
 {
-  "version": "0.5.5",
-  "minima": "0.5.5",
+  "version": "0.5.6",
+  "minima": "0.5.6",
   "canal": "beta",
-  "fecha": "2026-11-02",
-  "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.5/SkeletonTraductor_0.5.5_Portable.zip",
-  "sha256": "A14F45B3A73D3E80B9C59BE5CC6913C745F223FD69FD1E8AF2F326DF8EB10D9C",
-  "notas": "Version 0.5.5: licencias permanentes y por horas, boton Actualizar, busqueda global y correcciones Wolf/Ren'Py/KiriKiri."
+  "fecha": "2026-11-21",
+  "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.6/SkeletonTraductor_0.5.6_Portable.zip",
+  "sha256": "C17B905D8CF492C3676D1B8F59059C238B4B6C3364891780E5DA3B4AA15068D3",
+  "notas": "Version 0.5.6: hilos de Google ajustables, Ctrl+G en traduccion manual, registros parciales de Ren'Py, auto-voice, imagenes de RPG Maker y soporte BepInEx/Assembly."
 }
