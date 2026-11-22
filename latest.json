@@ -4,6 +4,6 @@
   "canal": "beta",
   "fecha": "2026-11-21",
   "url": "https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.6/SkeletonTraductor_0.5.6_Portable.zip",
-  "sha256": "C17B905D8CF492C3676D1B8F59059C238B4B6C3364891780E5DA3B4AA15068D3",
-  "notas": "Version 0.5.6: hilos de Google ajustables, Ctrl+G en traduccion manual, registros parciales de Ren'Py, auto-voice, imagenes de RPG Maker y soporte BepInEx/Assembly."
+  "sha256": "4A5D6C40194B93C6154A79584A95B8C1B12AAF517584195C6C0E1AA3A05D1346",
+  "notas": "Version 0.5.6: hilos de Google ajustables, Ctrl+G en traduccion manual, registros parciales de Ren'Py, imagenes de RPG Maker y fuentes CSV. BepInEx/Assembly siguen en evaluacion."
 }
