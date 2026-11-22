@@ -4,28 +4,26 @@ Traductor de juegos para Windows: Unity, Ren'Py, RPG Maker, KiriKiri y Wolf RPG.
 
 ## Descargar
 
-**[Descargar Skeleton Traductor 0.5.5 Portable](https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.5/SkeletonTraductor_0.5.5_Portable.zip)**
+**[Descargar Skeleton Traductor 0.5.6 Portable](https://github.com/TioOnlyH/Skeleton-Traductor/releases/download/v0.5.6/SkeletonTraductor_0.5.6_Portable.zip)**
 
-- Archivo: `SkeletonTraductor_0.5.5_Portable.zip`
-- SHA-256: `A14F45B3A73D3E80B9C59BE5CC6913C745F223FD69FD1E8AF2F326DF8EB10D9C`
+- Archivo: `SkeletonTraductor_0.5.6_Portable.zip`
+- SHA-256: `C17B905D8CF492C3676D1B8F59059C238B4B6C3364891780E5DA3B4AA15068D3`
 - No necesitas instalar Python.
 - Windows 10/11 de 64 bits.
 
-Si el enlace no abre, entra en **Releases** y descarga el ZIP de la version 0.5.5.
+Si el enlace no abre, entra en **Releases** y descarga el ZIP de la version 0.5.6.
 
-## Novedades de la 0.5.5
+## Novedades de la 0.5.6
 
-- Boton **Actualizar** con comprobacion de `latest.json`, descarga, verificacion SHA-256 e instalacion conservando datos.
-- Licencias **permanentes** y licencias de prueba **por horas**. Las de horas comprueban la hora UTC de Internet al activarse y al abrir la app; el contador solo corre con la app abierta.
-- Busqueda global en todos los archivos de Fase_2, con resultados por archivo y linea.
-- Editor manual ampliable y minimizable.
-- Copiar original con clic o Ctrl+C y pegar con Ctrl+V.
-- Botones del editor siempre visibles.
-- Wolf RPG: soporte de `Data.wolf`, Fase_2 al extraer y comentarios `//` fuera.
-- Ren'Py: Fase_2 se crea vacia y se conservan las traducciones existentes.
-- KiriKiri: los `.scn` se instalan en su ruta correcta (`data/scenario/`).
-- Reinyeccion mas limpia: reemplaza la salida anterior y conserva `Save`/`savedata`.
-- Correcciones de cache y de deteccion de salidas.
+- Hilos de Google ajustables de 1 a 8 en Ajustes para reducir errores 429.
+- Traduccion manual: Ctrl+G traduce solo la linea seleccionada.
+- La tabla manual se selecciona con un solo clic y Ctrl+G funciona aunque el foco este en el cuadro de traduccion.
+- Ren'Py guarda Fase_1/Fase_2 parciales cuando la traduccion automatica falla, para poder corregir desde Traduccion manual.
+- Ren'Py conserva los IDs de auto-voice cuando el juego configura `get_voice_file(id)` con funcion.
+- Soporte de imagenes de RPG Maker: preparar, abrir e inyectar.
+- Soporte de BepInEx/XUnity y literales de Assembly-CSharp en Unity.
+- Nuevas fuentes CSV para KiriKiri y RPG Maker.
+- Correcciones de registros por juego, publicacion y rutas de trabajo.
 
 ## Instalar
 
@@ -67,7 +65,7 @@ No borres `Registros` si quieres conservar traducciones ya hechas.
 
 ## Actualizaciones
 
-La app consulta `latest.json` cuando se anada el actualizador. Mientras tanto, descarga el ZIP nuevo desde Releases y descomprimelo sobre la carpeta del programa; no borres `Registros` ni `Juegos Terminados`.
+La app consulta `latest.json` al pulsar **Actualizar**. Tambien puedes descargar el ZIP nuevo desde Releases y descomprimirlo sobre la carpeta del programa; no borres `Registros` ni `Juegos Terminados`.
 
 ## Si una carpeta da acceso denegado
 
